@@ -63,7 +63,7 @@ Afternoon
 Night
 - Take a long rest overnight, nothing happens. We see weird animals through the night but not worrying
 
-### Day 7
+### Day 17
 Location: Cave
 
 Morning:
